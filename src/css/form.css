@@ -44,3 +44,6 @@
 .feedback-form button:hover {
   background-color: #357abd;
 }
+textarea {
+  resize: none;
+}
